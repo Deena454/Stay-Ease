@@ -3,6 +3,10 @@
 Stay Ease is a modern and responsive platform that helps users explore a variety of beautiful stays for their travel needs.  
 With a clean design and smooth browsing experience, users can easily find places that perfectly suit their comfort.
 
+🌍 Live Demo
+
+🔗 Visit Stay Ease here: https://stay-ease-nyrg.onrender.com
+
 ---
 
 ## ✨ Features
