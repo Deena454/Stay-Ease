@@ -5,7 +5,7 @@ With a clean design and smooth browsing experience, users can easily find places
 
 🌍 Live Demo
 
-🔗 Visit Stay Ease here: https://stay-ease-nyrg.onrender.com
+🔗 Visit Stay Ease here: https://stay-ease-nyrg.onrender.com/listings
 
 ---
 
